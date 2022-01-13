@@ -1,0 +1,13 @@
+/data
+/results
+/PPA_original_code
+PPA_original_code
+.Rproj.user/
+*.pptx
+*.txt
+*.pdf
+*.PDF
+*.rds
+*.Rhistory
+*.DS_Store
+
