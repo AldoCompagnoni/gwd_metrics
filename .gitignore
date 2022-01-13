@@ -10,4 +10,7 @@ PPA_original_code
 *.rds
 *.Rhistory
 *.DS_Store
+PPA.R
+postprocessing.R
+runscript.R
 
